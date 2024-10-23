@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java%20Solutions-100%25-brightgreen.svg?style=flat-square" alt="Java Solutions Badge" />
   <img src="https://img.shields.io/badge/Placements%20Ready-Yes-blue.svg?style=flat-square" alt="Placements Ready" />
-  <img src="https://img.shields.io/github/last-commit/yourusername/reponame?style=flat-square" alt="GitHub Last Commit" />
+  <img src="https://img.shields.io/github/last-commit/KishoreBabu7/Code-Tantra-Java-for-Placements-Answers?style=flat-square" alt="GitHub Last Commit" />
 </p>
 
 ---
