@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100px">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100px" alt="Java Logo">
   <br>
-  **Codetantra Java for Placements - Answers** 🚀
+  <strong style="font-size: 3em; color: #FF5733;">Codetantra Java for Placements - Answers</strong> 🚀
   <br>
 </h1>
 
@@ -13,15 +13,23 @@
 
 ---
 
-## ✨ **Why This Repository?**
-
-**Java** is essential for placements, and **Codetantra** offers an excellent platform to master the language. This repository provides **comprehensive solutions** to all exercises, helping you learn and excel effectively.
+<div align="center">
+  <h2 style="color: #FF5733;">✨ Why This Repository?</h2>
+</div>
+<div align="left" style="padding: 0 15%;">
+  <p>
+    Java is a core language for placements, and <strong>Codetantra</strong> offers excellent exercises to master the concepts. 
+    This repository is designed to help you excel by providing solutions to every exercise in a structured and easy-to-understand way.
+  </p>
+</div>
 
 ---
 
-## 🗂️ **Folder Structure**
-
-```bash
+<div align="center">
+  <h2 style="color: #FF5733;">🗂️ Folder Structure</h2>
+</div>
+<div align="left" style="padding: 0 15%;">
+  <pre style="font-size: 1.1em; color: #2F4F4F;">
 📁 Codetantra-Java-For-Placements
    ├── 📂 Chapter 01
    ├── 📂 Chapter 02
@@ -35,68 +43,81 @@
    ├── 📂 Chapter 63
    ├── 📂 Chapter 64
    └── 📂 Chapter 65
-```
-
-> Each folder contains solutions to the respective chapter exercises.
-
----
-
-## 🚀 **Get Started**
-
-Follow these steps to dive into your coding journey:
-
-1. **Clone the repository**:  
-   ```bash
-   git clone https://github.com/yourusername/Codetantra-Java-For-Placements.git
-   ```
-2. **Navigate to the chapter** you are focusing on.
-3. **Run the solution** using any Java IDE or the command line:
-   ```bash
-   javac YourSolution.java
-   java YourSolution
-   ```
+  </pre>
+  <p>Each folder contains answers to the respective chapter exercises.</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="300px">
-</p>
+<div align="center">
+  <h2 style="color: #FF5733;">🚀 Get Started</h2>
+</div>
+<div align="left" style="padding: 0 15%;">
+  <p>Follow these steps to dive into your coding journey:</p>
+  <ol style="font-size: 1.1em;">
+    <li><strong>Clone the repository:</strong>
+      <pre>git clone https://github.com/yourusername/Codetantra-Java-For-Placements.git</pre>
+    </li>
+    <li><strong>Navigate to the chapter</strong> you are focusing on.</li>
+    <li><strong>Run the solution</strong> using any Java IDE or the command line:
+      <pre>javac YourSolution.java
+java YourSolution</pre>
+    </li>
+  </ol>
+</div>
 
 ---
 
-## 🛠️ **Prerequisites**
-
-Make sure you have the following to run these Java programs on your machine:
-
-- **Java JDK** (preferably JDK 8+)
-- An **IDE** (like IntelliJ IDEA, Eclipse, etc.) or a **terminal**
+<div align="center">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="300px" alt="Coding Animation">
+</div>
 
 ---
 
-## ✍️ **Contributing**
-
-We love contributions! 🚀 If you have improvements or better solutions, don’t hesitate to contribute:
-
-1. **Fork this repo** 
-2. **Create a new branch**:  
-   ```bash
-   git checkout -b feature-branch
-   ```
-3. **Submit your PR** and we'll review it ASAP!
-
----
-
-## 🤔 **Got Questions?**
-
-Feel free to reach out if you need assistance:
-
-- **Email**: [tulugukishorebabu@gmail.com](mailto:tulugukishorebabu@gmail.com)
-- **LinkedIn**: [TULUGU KISHORE BABU](https://www.linkedin.com/in/kishorebabu-tulugu/)
+<div align="center">
+  <h2 style="color: #FF5733;">🛠️ Prerequisites</h2>
+</div>
+<div align="left" style="padding: 0 15%;">
+  <p>Make sure you have the following to run these Java programs on your machine:</p>
+  <ul style="font-size: 1.1em;">
+    <li><strong>Java JDK</strong> (preferably JDK 8+)</li>
+    <li>An <strong>IDE</strong> (like IntelliJ IDEA, Eclipse, etc.) or just a **terminal**</li>
+  </ul>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="100px" />
-</p>
+<div align="center">
+  <h2 style="color: #FF5733;">✍️ Contributing</h2>
+</div>
+<div align="left" style="padding: 0 15%;">
+  <p>We love contributions! 🚀 If you find better solutions or ways to optimize existing code, feel free to open a PR.</p>
+  <ol style="font-size: 1.1em;">
+    <li><strong>Fork this repo</strong></li>
+    <li><strong>Create a new branch:</strong>
+      <pre>git checkout -b feature-branch</pre>
+    </li>
+    <li><strong>Submit your PR</strong> and we'll review it ASAP!</li>
+  </ol>
+</div>
 
-<h3 align="center">Wishing you the best in your placements! 😎</h3>
+---
+
+<div align="center">
+  <h2 style="color: #FF5733;">🤔 Got Questions?</h2>
+</div>
+<div align="left" style="padding: 0 15%;">
+  <p>Feel free to reach out if you need any help:</p>
+  <p style="font-size: 1.1em;">
+    <strong>Email:</strong> <a href="mailto:tulugukishorebabu@gmail.com">tulugukishorebabu@gmail.com</a><br>
+    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kishorebabu-tulugu/" target="_blank">TULUGU KISHORE BABU</a>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="100px" alt="Good Luck">
+</div>
+
+<h3 align="center" style="color: #FF5733;">Wishing you the best in your placements! 😎</h3>
