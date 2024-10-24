@@ -56,7 +56,7 @@
   <p>Follow these steps to dive into your coding journey:</p>
   <ol style="font-size: 1.1em;">
     <li><strong>Clone the repository:</strong>
-      <pre>git clone https://github.com/yourusername/Codetantra-Java-For-Placements.git</pre>
+      <pre>git clone https://github.com/KishoreBabu7/Code-Tantra-Java-for-Placements-Answers.git</pre>
     </li>
     <li><strong>Navigate to the chapter</strong> you are focusing on.</li>
     <li><strong>Run the solution</strong> using any Java IDE or the command line:
